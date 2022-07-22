@@ -1,7 +1,7 @@
 body {
   background-color: #f5f7fa;
   font-family: "Montserrat", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   color: #111720;
 }
@@ -21,14 +21,14 @@ h2 {
 h3 {
  font-style: normal;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 23px;
   line-height: 27px;
   margin: 0 0 10px 0;
   text-transform: uppercase;
   color: #263547;
 }
 h4 {  
- font-size: 18px;
+ font-size: 20px;
  line-height: 22px;
  font-style: normal;
  font-weight: bold; 
@@ -117,7 +117,7 @@ h4 {
 .work-experience-time {
   font-style: normal;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 20px; 
   margin-bottom: 10px;
   /* font-style: italic; */
@@ -127,7 +127,7 @@ h4 {
   padding-left: 18px;
   font-style: normal;
   font-weight:400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 20px;
   color: #000;
 }
@@ -148,7 +148,7 @@ h4 {
 }
 
 .img {
-  width: 300px;
+  width: 380px;
   height: auto;
   left: 40px;
   top: 80px;
@@ -165,7 +165,7 @@ h4 {
   color: #fff;
   font-style: normal;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 23px;
   line-height: 27px;
   margin: 0 0 10px 0;
   text-transform: uppercase;
@@ -176,7 +176,7 @@ h4 {
   color: #fff;
   font-style: normal;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 24px;
   margin-right: 7px;
 }
@@ -185,7 +185,7 @@ h4 {
   color: #fff;
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 28px;
   text-decoration: none;
 }
@@ -193,7 +193,7 @@ h4 {
   color: #fff;
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 28px;
 
 }
@@ -215,6 +215,6 @@ h4 {
   color: #fff;
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 24px;
 }
